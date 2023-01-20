@@ -3,5 +3,3 @@ def sum(first: int, second: int) -> int:
 
 
 print(sum(5, 10))
-print(sum(10, 5))
-print(sum(10, 5))
