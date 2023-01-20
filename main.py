@@ -3,3 +3,4 @@ def sum(first: int, second: int) -> int:
 
 
 print(sum(5, 25))
+print(sum(10, 20))
