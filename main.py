@@ -18,3 +18,7 @@ print(sum(5, 25))
 print(minus(10, 20))
 printMinusAndPlus(10, 15)
 # классная функция кстати
+print(sum(5, 25))
+print(minus(10, 20))
+printMinusAndPlus(10, 15)
+# классная функция кстати
