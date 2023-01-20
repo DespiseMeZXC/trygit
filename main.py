@@ -13,3 +13,4 @@ def printMinusAndPlus(first: int, second: int) -> int:
 print(sum(5, 25))
 print(minus(10, 20))
 printMinusAndPlus(10, 15)
+# классная функция кстати
